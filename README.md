@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andurso
+- 👋 Hi, I’m Wandersson Dutra
 - 👀 I’m interested in back-end development and games.
 - 🌱 I’m currently learning c#, and .NET in general.
 - 💞️ I’m looking to collaborate on ...
